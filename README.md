@@ -1,6 +1,6 @@
 # SocialNet
 
-SocialNet based on FacePamphlet Exercise
+SocialNet based on CS106's FacePamphlet Exercise
 
 (This project only works behind the DLSU proxy since this is a toy problem demo)
 
